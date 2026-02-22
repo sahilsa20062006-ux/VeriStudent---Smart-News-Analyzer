@@ -1,5 +1,5 @@
 
-# 🛡️ VeriStudent - Smart News Credibility Analyzer
+# 🛡️ VeriStudent - Fake News Detector
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Machine Learning](https://img.shields.io/badge/ML-Scikit--Learn-orange.svg)

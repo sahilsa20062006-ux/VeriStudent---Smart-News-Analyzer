@@ -31,4 +31,4 @@ During development, I identified a significant "Data Leakage" issue where the mo
 1. Clone the repo: `git clone https://github.com/YourUsername/VeriStudent.git`
 2. Install requirements: `pip install -r requirements.txt`
 3. Set your API Key: `export GEMINI_API_KEY='your_key_here'`
-4. Run the app: `python app.py`
+4. Run the app: `python veriStudent.py`
